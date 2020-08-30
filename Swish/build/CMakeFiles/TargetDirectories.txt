@@ -1,0 +1,3 @@
+/home/dgxuser125/rt-kennan/Swish/build/CMakeFiles/rebuild_cache.dir
+/home/dgxuser125/rt-kennan/Swish/build/CMakeFiles/swish.dir
+/home/dgxuser125/rt-kennan/Swish/build/CMakeFiles/edit_cache.dir

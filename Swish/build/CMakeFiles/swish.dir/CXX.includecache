@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dgxuser125/rt-kennan/Swish/plugin/SwishPlugin.cpp
+algorithm
+-
+cassert
+-
+iostream
+-
+numeric
+-
+vector
+-
+cmath
+-
+cublas_v2.h
+-
+NvInferPlugin.h
+/home/dgxuser125/rt-kennan/Swish/plugin/NvInferPlugin.h
+

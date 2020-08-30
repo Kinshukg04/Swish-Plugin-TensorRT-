@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Wall -Wno-long-long -pedantic -Wno-deprecated-declarations -Wno-deprecated-declarations  -shared  -o libswish.so CMakeFiles/swish.dir/plugin/SwishPlugin.cpp.o /usr/lib/x86_64-linux-gnu/libnvinfer.so /usr/lib/x86_64-linux-gnu/libcublas.so 
